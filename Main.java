@@ -6,8 +6,6 @@ import java.util.*; // contains Collections framework
 class Main {
 	public static void main (String[] args) {
                       // Your code here
-					  Scanner sc=new Scanner(System.in);
-					  int n=sc.nextInt();
-					  System.out.println(n);
+		      System.out.println("Hello Susmita");
 	}
 }
